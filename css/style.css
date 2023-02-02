@@ -1,0 +1,32 @@
+.container{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #f4eeee;
+}
+
+/* header */
+header{
+    max-width: inherit;
+    width: inherit;
+    padding: 59px 76px 58px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+   
+
+
+}
+
+.logo{
+width: 205px;
+height: 43px;
+}
+
+.vector{
+width: 60px;
+height: 46px;
+}
+
