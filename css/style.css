@@ -80,3 +80,23 @@ display: flex;
 justify-content: space-between;
 }
 
+/* footer */
+footer{
+    width: 100%;
+    padding-top: 206px;
+    background-color: #FFFFFF;
+    padding: 69px 73px 203px 82px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.footer_logo{
+width: 141px;
+}
+.footer_add{
+    font-size: 20px;
+    color:  #000000;
+}
+.address{
+    padding-top: 47px;
+}
