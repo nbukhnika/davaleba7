@@ -54,4 +54,29 @@ position: absolute;
     transform: translate( -50%, -50%);
 }
 
+/* section 2 */
+.section_2{
+    width: 90%;
+    padding: 206px 83px 112px 80px;
+}
+.section_title{
+font-size: 40px;
+color: #125806;
+padding-bottom: 74px;
+}
+
+.cards{
+width: 90%;
+gap: 28px;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+
+}
+.card{
+width: 30%;
+height: 271px;
+display: flex;
+justify-content: space-between;
+}
 
